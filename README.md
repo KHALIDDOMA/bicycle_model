@@ -8,7 +8,7 @@ $$ \dot y = \nu \sin(\theta + \beta) $$
 
 $$ \dot \theta = {\nu \tan\delta\cos\beta \over L} $$
 
-$$ \beta = \tan^-1({lr \tan\delta \over L}) $$
+$$ \beta = \tan^{-1}({lr \tan\delta \over L}) $$
 
 Model Inputs:
   - The time of simulation
