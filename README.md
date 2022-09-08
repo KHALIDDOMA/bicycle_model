@@ -3,7 +3,7 @@ In This project, we will implement the **Kinematic Bicycle Model** for a forward
 
 The **forward Kinematic Bicycle Model** set of equations are:
 
-$$ \dot x = \nu \cos(\theta + \beta) $$
+font-size: 100 $$ \dot x = \nu \cos(\theta + \beta) $$
 
 $$ \dot y = \nu \sin(\theta + \beta) $$
 
