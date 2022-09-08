@@ -32,6 +32,6 @@ Model Inputs:
   - The steering angle( $\delta$ )
 
 
-The variable that stored in .yaml file :
+The variables that stored in .yaml file :
   - The distance between CG and front wheel( $l_f$ )
   - The distance between CG and back wheel( $l_r$ )
