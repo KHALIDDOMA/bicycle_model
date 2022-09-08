@@ -6,7 +6,7 @@ $$ \dot x = \nu \cos(\theta + \beta) $$
 
 $$ \dot y = \nu \sin(\theta + \beta) $$
 
-$$ \dot \theta = (\nu \tan\delta\cos\beta) \over L $$
+$$ \dot \theta = {(\nu \tan\delta\cos\beta)} \over L $$
 
 $$ \beta = (\arctan(lr \tan\delta \over L) $$
 
