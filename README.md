@@ -3,8 +3,11 @@ In This project, we will implement the **Kinematic Bicycle Model** for a forward
 The **Kinematic Bicycle Model** equations are:
 
 $$ \dot x = \nu \cos(\theta + \beta) $$
+
 $$ \dot y = \nu \sin(\theta + \beta) $$
+
 $$ \dot \theta = \nu \tan(\delta)\cos(\beta) \over L $$
+
 $$ \beta = \arctan(lr \tan(\delta) \over L) $$
 
 Model Inputs:
