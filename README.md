@@ -12,7 +12,7 @@ The **Kinematic Bicycle Model** equations are:
 Model Inputs:
   - The time of simulation
   - The car velocity
-  - The steering angle(\\delta)
+  - The steering angle($\delta)
 
 The variable that stored in .yaml file :
   - The distance between CG and front wheel(**lf**)
