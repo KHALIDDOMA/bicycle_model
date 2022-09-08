@@ -1,0 +1,5 @@
+<launch>
+    <rosparam command="load" file="$(find my_robot_controller)/config/bicycle_model.yaml" />
+    <node name="turtlesim" pkg="turtlesim" type="turtlesim_node" ></node>
+    <node name="front_steering" pkg="my_robot_controller" type="front_steering.py" output="screen"></node>
+</launch>
