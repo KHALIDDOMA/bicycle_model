@@ -35,6 +35,3 @@ Model Inputs:
 The variable that stored in .yaml file :
   - The distance between CG and front wheel( $l_f$ )
   - The distance between CG and back wheel( $l_r$ )
-
-
-This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
