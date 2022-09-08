@@ -31,6 +31,10 @@ Model Inputs:
   - The car velocity
   - The steering angle($\sqrt{\$4}$)
 
+
 The variable that stored in .yaml file :
   - The distance between CG and front wheel(**lf**)
   - The distance between CG and back wheel(**lr**)
+
+
+This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
