@@ -29,12 +29,12 @@ $$ \beta = \tan^{-1}({l_f \tan\delta \over L}) $$
 Model Inputs:
   - The time of simulation
   - The car velocity
-  - The steering angle ( $\delta$ )
+  - The steering angle( $\delta$ )
 
 
 The variable that stored in .yaml file :
-  - The distance between CG and front wheel(**lf**)
-  - The distance between CG and back wheel(**lr**)
+  - The distance between CG and front wheel( $l_f$ )
+  - The distance between CG and back wheel( $l_r$ )
 
 
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
