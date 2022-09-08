@@ -29,7 +29,7 @@ $$ \beta = \tan^{-1}({l_f \tan\delta \over L}) $$
 Model Inputs:
   - The time of simulation
   - The car velocity
-  - The steering angle($\sqrt{3x-1}+(1+x)^2$)
+  - The steering angle{$\sqrt{3x-1}+(1+x)^2$}
 
 
 The variable that stored in .yaml file :
