@@ -1,4 +1,4 @@
-# bicycle model
+# Bicycle Model
 In This project, we will implement the **Kinematic Bicycle Model** for a forward and backward steering car (each case in separate model). To simulate the model behavior we use turtlesim node in ROS.
 
 The **forward Kinematic Bicycle Model** set of equations are:
